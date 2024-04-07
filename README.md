@@ -14,8 +14,8 @@ Classification, Imbalanced dataset, Predicting drinking behavior with body signa
 
 ### Repository Structure
 - **2**/
-  - Sheroz_KDDM_548_Homework_Assignment_2.ipynb
-  - Sheroz_KDDM_548_Homework_Assignment_2.pdf
+  - [Sheroz_KDDM_548_Homework_Assignment_2.ipynb](2/Sheroz_KDDM_548_Homework_Assignment_2.ipynb)
+  - [Sheroz_KDDM_548_Homework_Assignment_2.pdf](2/Sheroz_KDDM_548_Homework_Assignment_2.pdf)
 
 
 # Enhanced Indoor Positioning: Comparing LSTM Neural Networks with Traditional Regression Models for Accurate RSSI-Based Localization
@@ -29,10 +29,10 @@ Regression, Enhanced Indoor Positioning, Comparing LSTM Neural Networks with Tra
 
 ### Repository Structure
 - **3**/
-  - Sheroz_KDDM_548_Homework_Assignment_3.pdf
-  - Sheroz_KDDM_548_Homework_Assignment_3_(Presentation).pdf
-  - Sheroz_KDDM_548_Homework_Assignment_Data_Preprocessing_and_LSTM_Implementation.ipynb
-  - Sheroz_KDDM_548_Homework_Assignment_Data_Preprocessing_and_Traditional_Regression.py
+  - [Sheroz_KDDM_548_Homework_Assignment_3.pdf](3/Sheroz_KDDM_548_Homework_Assignment_3.pdf)
+  - [Sheroz_KDDM_548_Homework_Assignment_3_(Presentation).pdf](3/Sheroz_KDDM_548_Homework_Assignment_3_(Presentation).pdf)
+  - [Sheroz_KDDM_548_Homework_Assignment_Data_Preprocessing_and_LSTM_Implementation.ipynb](3/Sheroz_KDDM_548_Homework_Assignment_Data_Preprocessing_and_LSTM_Implementation.ipynb)
+  - [Sheroz_KDDM_548_Homework_Assignment_Data_Preprocessing_and_Traditional_Regression.py](3/Sheroz_KDDM_548_Homework_Assignment_Data_Preprocessing_and_Traditional_Regression.py)
 
 
 
@@ -47,6 +47,6 @@ Regression, Advancing Image Clarity, Comparative Analysis and Optimization of Su
 
 ### Repository Structure
 - **4**/
-  - Sheroz_KDDM_548_Homework_Assignment_4.pdf
-  - Sheroz_KDDM_548_Homework_Assignment_EDA.ipynb
-  - Sheroz_KDDM_548_Homework_Assignment_Model_Implementation.ipynb
+  - [Sheroz_KDDM_548_Homework_Assignment_4.pdf](4/Sheroz_KDDM_548_Homework_Assignment_4.pdf)
+  - [Sheroz_KDDM_548_Homework_Assignment_EDA.ipynb](4/Sheroz_KDDM_548_Homework_Assignment_EDA.ipynb)
+  - [Sheroz_KDDM_548_Homework_Assignment_Model_Implementation.ipynb](4/Sheroz_KDDM_548_Homework_Assignment_Model_Implementation.ipynb)
